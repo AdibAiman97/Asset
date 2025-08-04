@@ -1,0 +1,427 @@
+[17-Oct-2024 10:44:10 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 111
+[17-Oct-2024 10:44:10 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 117
+[17-Oct-2024 10:44:10 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 126
+[17-Oct-2024 10:44:10 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 132
+[17-Oct-2024 10:44:10 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 144
+[17-Oct-2024 10:44:10 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 144
+[17-Oct-2024 10:44:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'admin@mail.com' for key 'PRIMARY' in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php:60
+Stack trace:
+#0 /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 60
+[17-Oct-2024 10:44:51 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 111
+[17-Oct-2024 10:44:51 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 117
+[17-Oct-2024 10:44:51 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 126
+[17-Oct-2024 10:44:51 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 132
+[17-Oct-2024 10:44:51 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 144
+[17-Oct-2024 10:44:51 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 144
+[17-Oct-2024 10:45:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'name' at row 1 in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php:63
+Stack trace:
+#0 /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php(63): mysqli_query()
+#1 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 63
+[17-Oct-2024 10:46:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Adin' for key 'PRIMARY' in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php:60
+Stack trace:
+#0 /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 60
+[17-Oct-2024 10:47:47 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 111
+[17-Oct-2024 10:47:47 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 117
+[17-Oct-2024 10:47:47 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 126
+[17-Oct-2024 10:47:47 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 132
+[17-Oct-2024 10:47:47 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 144
+[17-Oct-2024 10:47:47 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 144
+[17-Oct-2024 10:52:10 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 111
+[17-Oct-2024 10:52:10 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 117
+[17-Oct-2024 10:52:10 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 126
+[17-Oct-2024 10:52:10 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 132
+[17-Oct-2024 10:52:10 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 144
+[17-Oct-2024 10:52:10 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 144
+[17-Oct-2024 10:52:37 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 111
+[17-Oct-2024 10:52:37 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 117
+[17-Oct-2024 10:52:37 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 126
+[17-Oct-2024 10:52:37 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 132
+[17-Oct-2024 10:52:37 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 144
+[17-Oct-2024 10:52:37 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 144
+[17-Oct-2024 10:54:20 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 10:54:20 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 10:54:20 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 10:54:20 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 10:54:20 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 10:54:20 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 10:55:25 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 10:55:25 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 10:55:25 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 10:55:25 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 10:55:25 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 10:55:25 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 10:56:22 UTC] PHP Parse error:  Unmatched '}' in /home/ezypaycc/public_html/STDC-Asset-System/manage_staff.php on line 219
+[17-Oct-2024 10:56:25 UTC] PHP Parse error:  Unmatched '}' in /home/ezypaycc/public_html/STDC-Asset-System/manage_staff.php on line 219
+[17-Oct-2024 10:56:27 UTC] PHP Parse error:  Unmatched '}' in /home/ezypaycc/public_html/STDC-Asset-System/manage_staff.php on line 219
+[17-Oct-2024 10:56:27 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 10:56:27 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 10:56:27 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 10:56:27 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 10:56:27 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 10:56:27 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 10:56:29 UTC] PHP Parse error:  Unmatched '}' in /home/ezypaycc/public_html/STDC-Asset-System/manage_staff.php on line 219
+[17-Oct-2024 10:56:31 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 10:56:31 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 10:56:31 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 10:56:31 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 10:56:31 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 10:56:31 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 10:56:32 UTC] PHP Parse error:  Unmatched '}' in /home/ezypaycc/public_html/STDC-Asset-System/manage_staff.php on line 219
+[17-Oct-2024 10:57:32 UTC] PHP Parse error:  Unmatched '}' in /home/ezypaycc/public_html/STDC-Asset-System/manage_staff.php on line 219
+[17-Oct-2024 10:57:33 UTC] PHP Parse error:  Unmatched '}' in /home/ezypaycc/public_html/STDC-Asset-System/manage_staff.php on line 219
+[17-Oct-2024 10:57:34 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 10:57:34 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 10:57:34 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 10:57:34 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 10:57:34 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 10:57:34 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 10:57:37 UTC] PHP Parse error:  Unmatched '}' in /home/ezypaycc/public_html/STDC-Asset-System/manage_staff.php on line 219
+[17-Oct-2024 11:00:04 UTC] PHP Warning:  Undefined array key "code" in /home/ezypaycc/public_html/STDC-Asset-System/manage_staff.php on line 36
+[17-Oct-2024 11:00:04 UTC] PHP Warning:  Undefined array key "act" in /home/ezypaycc/public_html/STDC-Asset-System/manage_staff.php on line 37
+[17-Oct-2024 11:05:14 UTC] PHP Warning:  Undefined array key "code" in /home/ezypaycc/public_html/STDC-Asset-System/manage_staff.php on line 36
+[17-Oct-2024 11:05:14 UTC] PHP Warning:  Undefined array key "act" in /home/ezypaycc/public_html/STDC-Asset-System/manage_staff.php on line 37
+[17-Oct-2024 11:05:48 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 11:05:48 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 11:05:48 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 11:05:48 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 11:05:48 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:05:48 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:05:50 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 11:05:50 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 11:05:50 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 11:05:50 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 11:05:50 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:05:50 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:05:54 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 11:05:54 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 11:05:54 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 11:05:54 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 11:05:54 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:05:54 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:09:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "username" in /home/ezypaycc/public_html/STDC-Asset-System/profile_admin.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/profile_admin.php on line 114
+[17-Oct-2024 11:09:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "username" in /home/ezypaycc/public_html/STDC-Asset-System/profile_admin.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/profile_admin.php on line 114
+[17-Oct-2024 11:10:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "username" in /home/ezypaycc/public_html/STDC-Asset-System/profile_admin.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/profile_admin.php on line 114
+[17-Oct-2024 11:14:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "username" in /home/ezypaycc/public_html/STDC-Asset-System/profile_admin.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/profile_admin.php on line 114
+[17-Oct-2024 11:18:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "username" in /home/ezypaycc/public_html/STDC-Asset-System/profile_admin.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/profile_admin.php on line 114
+[17-Oct-2024 11:24:58 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 11:24:58 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 11:24:58 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 11:24:58 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 11:24:58 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:24:58 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:25:17 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 11:25:17 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 11:25:17 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 11:25:17 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 11:25:17 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:25:17 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:27:21 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 11:27:21 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 11:27:21 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 11:27:21 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 11:27:21 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:27:21 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:28:18 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 11:28:18 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 11:28:18 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 11:28:18 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 11:28:18 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:28:18 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:31:08 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 11:31:08 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 11:31:08 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 11:31:08 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 11:31:08 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:31:08 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:31:54 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 11:31:54 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 11:31:54 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 11:31:54 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 11:31:54 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:31:54 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:42:00 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 11:42:00 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 11:42:00 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 11:42:00 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 11:42:00 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:42:00 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:46:35 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 11:46:35 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 11:46:35 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 11:46:35 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 11:46:35 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:46:35 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:54:20 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 11:54:20 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 11:54:20 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 11:54:20 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 11:54:20 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:54:20 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:55:08 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 11:55:08 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 11:55:08 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 11:55:08 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 11:55:08 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 11:55:08 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 12:02:27 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 12:02:27 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 12:02:27 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 12:02:27 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 12:02:27 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 12:02:27 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 12:10:06 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 12:10:06 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 12:10:06 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 12:10:06 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 12:10:06 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 12:10:06 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 12:18:39 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 12:18:39 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 12:18:39 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 12:18:39 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 12:18:39 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 12:18:39 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 12:22:36 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 12:22:36 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 12:22:36 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 12:22:36 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 12:22:36 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 12:22:36 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 12:23:04 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 12:23:04 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 12:23:04 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 12:23:04 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 12:23:04 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 12:23:04 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 14:58:03 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 14:58:03 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 14:58:03 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 14:58:03 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 14:58:03 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 14:58:03 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 17:21:55 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 17:21:55 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 17:21:55 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 17:21:55 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 17:21:55 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 17:21:55 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 19:26:34 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[17-Oct-2024 19:26:34 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[17-Oct-2024 19:26:34 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[17-Oct-2024 19:26:34 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[17-Oct-2024 19:26:34 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[17-Oct-2024 19:26:34 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[18-Oct-2024 03:19:38 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[18-Oct-2024 03:19:38 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[18-Oct-2024 03:19:38 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[18-Oct-2024 03:19:38 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[18-Oct-2024 03:19:38 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[18-Oct-2024 03:19:38 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[19-Oct-2024 13:55:32 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[19-Oct-2024 13:55:32 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[19-Oct-2024 13:55:32 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[19-Oct-2024 13:55:32 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[19-Oct-2024 13:55:32 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[19-Oct-2024 13:55:32 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[23-Oct-2024 02:36:58 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[23-Oct-2024 02:36:58 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[23-Oct-2024 02:36:58 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[23-Oct-2024 02:36:58 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[23-Oct-2024 02:36:58 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[23-Oct-2024 02:36:58 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[23-Oct-2024 02:47:27 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[23-Oct-2024 02:47:27 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[23-Oct-2024 02:47:27 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[23-Oct-2024 02:47:27 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[23-Oct-2024 02:47:27 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[23-Oct-2024 02:47:27 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[23-Oct-2024 02:59:08 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[23-Oct-2024 02:59:08 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[23-Oct-2024 02:59:08 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[23-Oct-2024 02:59:08 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[23-Oct-2024 02:59:08 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[23-Oct-2024 02:59:08 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[23-Oct-2024 02:59:22 UTC] PHP Warning:  Undefined variable $name in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 109
+[23-Oct-2024 02:59:22 UTC] PHP Warning:  Undefined variable $position in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 115
+[23-Oct-2024 02:59:22 UTC] PHP Warning:  Undefined variable $email in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 124
+[23-Oct-2024 02:59:22 UTC] PHP Warning:  Undefined variable $phone in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 130
+[23-Oct-2024 02:59:22 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[23-Oct-2024 02:59:22 UTC] PHP Warning:  Undefined variable $gender_id in /home/ezypaycc/public_html/STDC-Asset-System/register_staff.php on line 142
+[23-Oct-2024 14:52:34 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $disposal_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 214
+[23-Oct-2024 14:52:34 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $method in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 215
+[23-Oct-2024 14:52:34 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $staff_name in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 216
+[23-Oct-2024 14:52:34 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '' for column `ezypaycc_assetsystem`.`disposal`.`disposal_date` at row 1 in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php:217
+Stack trace:
+#0 /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php(217): mysqli_query()
+#1 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 217
+[23-Oct-2024 14:52:59 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $selected_asset_id in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 318
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $organization in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 354
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $category in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 356
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $sector in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 360
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $subcategory in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 362
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $type in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 368
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $serial_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 404
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $warranty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 406
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $component in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 410
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $barcode_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 415
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $ori_acq_price in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 417
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $brand_model in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 422
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $gov_order_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 424
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $file_ref_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 429
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $purchase_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 431
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $retrieval_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 432
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $made_by in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 436
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $unit in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 439
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $type_engine_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 443
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $cost_per_unit in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 445
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $warranty_year in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 446
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $chasis_series in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 450
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $supplier in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 452
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $spec_notes in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 457
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $supplier_address in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 462
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $hod_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 487
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $placement_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 489
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $hod_name in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 495
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $placement_code in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 497
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $hod_position in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 520
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $placement_location in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 522
+[23-Oct-2024 06:54:46 UTC] PHP Warning:  Undefined variable $placement_name in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 530
+[23-Oct-2024 14:54:51 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $selected_asset_id in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 318
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $organization in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 354
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $category in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 356
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $sector in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 360
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $subcategory in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 362
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $type in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 368
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $serial_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 404
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $warranty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 406
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $component in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 410
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $barcode_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 415
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $ori_acq_price in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 417
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $brand_model in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 422
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $gov_order_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 424
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $file_ref_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 429
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $purchase_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 431
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $retrieval_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 432
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $made_by in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 436
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $unit in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 439
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $type_engine_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 443
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $cost_per_unit in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 445
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $warranty_year in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 446
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $chasis_series in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 450
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $supplier in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 452
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $spec_notes in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 457
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $supplier_address in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 462
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $hod_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 487
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $placement_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 489
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $hod_name in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 495
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $placement_code in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 497
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $hod_position in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 520
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $placement_location in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 522
+[23-Oct-2024 06:55:35 UTC] PHP Warning:  Undefined variable $placement_name in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 530
+[23-Oct-2024 14:55:37 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
+[23-Oct-2024 14:55:52 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $disposal_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 214
+[23-Oct-2024 14:55:52 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $method in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 215
+[23-Oct-2024 14:55:52 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $staff_name in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 216
+[23-Oct-2024 14:55:52 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '' for column `ezypaycc_assetsystem`.`disposal`.`disposal_date` at row 1 in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php:217
+Stack trace:
+#0 /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php(217): mysqli_query()
+#1 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 217
+[23-Oct-2024 14:55:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $selected_asset_id in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 318
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $organization in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 354
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $category in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 356
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $sector in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 360
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $subcategory in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 362
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $type in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 368
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $serial_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 404
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $warranty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 406
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $component in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 410
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $barcode_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 415
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $ori_acq_price in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 417
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $brand_model in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 422
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $gov_order_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 424
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $file_ref_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 429
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $purchase_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 431
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $retrieval_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 432
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $made_by in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 436
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $unit in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 439
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $type_engine_no in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 443
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $cost_per_unit in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 445
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $warranty_year in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 446
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $chasis_series in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 450
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $supplier in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 452
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $spec_notes in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 457
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $supplier_address in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 462
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $hod_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 487
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $placement_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 489
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $hod_name in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 495
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $placement_code in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 497
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $hod_position in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 520
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $placement_location in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 522
+[23-Oct-2024 06:56:57 UTC] PHP Warning:  Undefined variable $placement_name in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 530
+[23-Oct-2024 14:56:59 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
+[23-Oct-2024 14:57:03 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
+[23-Oct-2024 14:57:05 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
+[23-Oct-2024 14:57:07 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
+[23-Oct-2024 14:57:28 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $disposal_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 214
+[23-Oct-2024 14:57:28 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $method in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 215
+[23-Oct-2024 14:57:28 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $staff_name in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 216
+[23-Oct-2024 14:57:28 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '' for column `ezypaycc_assetsystem`.`disposal`.`disposal_date` at row 1 in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php:217
+Stack trace:
+#0 /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php(217): mysqli_query()
+#1 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 217
+[23-Oct-2024 14:57:45 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $disposal_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 214
+[23-Oct-2024 14:57:45 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $method in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 215
+[23-Oct-2024 14:57:45 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $staff_name in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 216
+[23-Oct-2024 14:57:45 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '' for column `ezypaycc_assetsystem`.`disposal`.`disposal_date` at row 1 in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php:217
+Stack trace:
+#0 /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php(217): mysqli_query()
+#1 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 217
+[23-Oct-2024 14:57:46 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
+[23-Oct-2024 14:57:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $disposal_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 214
+[23-Oct-2024 14:57:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $method in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 215
+[23-Oct-2024 14:57:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $staff_name in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 216
+[23-Oct-2024 14:57:55 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '' for column `ezypaycc_assetsystem`.`disposal`.`disposal_date` at row 1 in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php:217
+Stack trace:
+#0 /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php(217): mysqli_query()
+#1 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 217
+[23-Oct-2024 15:00:02 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
+[23-Oct-2024 15:00:09 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $disposal_date in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 214
+[23-Oct-2024 15:00:09 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $method in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 215
+[23-Oct-2024 15:00:09 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $staff_name in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 216
+[23-Oct-2024 15:00:09 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '' for column `ezypaycc_assetsystem`.`disposal`.`disposal_date` at row 1 in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php:217
+Stack trace:
+#0 /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php(217): mysqli_query()
+#1 {main}
+  thrown in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 217
+[23-Oct-2024 15:02:20 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $qty in /home/ezypaycc/public_html/STDC-Asset-System/disposal_form.php on line 438
