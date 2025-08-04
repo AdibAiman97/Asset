@@ -37,4 +37,23 @@ The application is organized into functional modules and shared components:
 
 # 4) Project Preview
 
-*(Add screenshots of the application here, such as the login page, dashboard, and asset management forms.)*
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/383f5f24-f23e-41da-9dc9-0fc9d056267b" />
+<br>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/53e10152-b1bb-4c67-a911-5329c98a23a9" />
+<br>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/937c1adb-367d-4d42-a1a8-d616e7cc5442" />
+<br>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e4097699-0c6d-4fe6-bdc8-2abaadc9c762" />
+<br>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/16c6244e-cb20-4eae-8cab-e9893e9baefd" />
+<br>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/38b9bccc-988b-443a-9cf4-8a108b6168ae" />
+<br>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/2029d10e-8150-4382-9042-12ce46ed58ca" />
+
+
+
+
+
+
+
