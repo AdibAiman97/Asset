@@ -37,7 +37,7 @@ The application is organized into functional modules and shared components:
 
 # 4) Project Preview
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/383f5f24-f23e-41da-9dc9-0fc9d056267b" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a973ce62-fbef-4a39-90a7-0f9fe53eb4bc" />
 <br>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/53e10152-b1bb-4c67-a911-5329c98a23a9" />
 <br>
